@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Camila Simas, i'm 24 years old!
--- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+####  Hi, i'm Camila Simas.    👋
+##### Welcome to my Github profile!
 
-<!---
-Camila-1/Camila-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am 24 years old and at the moment I am starting in the area of ​​technology.
+- I'm currently studying HTMl and CSS.
+
+I'm learning to use Github, so I need some patience with my presentation!
